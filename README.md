@@ -3,6 +3,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+- ✨ Criando bugs desde 2024
 - 🌱 Atualmente aprendendo **Java Backend**
 - 📚 Técnico em ADS - SENAC
 - 🔭 Cursando Sistemas de informação - UFU
