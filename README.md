@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Vitor</h1>
-<h3 align="center">Programando diretamente do Brasil</h3>
+<h1 >Olá 👋, eu sou o Vitor</h1>
+<h3>Programando diretamente do Brasil</h3>
 
 - 🌱 Atualmente aprendendo **Java Backend**
 
