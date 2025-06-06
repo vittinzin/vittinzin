@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente aprendendo **Java Backend**
 - 📚 Técnico em ADS - SENAC
-- 📚 Cursando Sistemas de informação - UFU
+- 🔭 Cursando Sistemas de informação - UFU
 - 📫 Contato: **vitoredua7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
