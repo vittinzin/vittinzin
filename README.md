@@ -3,15 +3,14 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- ✨ Criando bugs desde 2024
 - 🌱 Atualmente aprendendo **Java Backend**
 - 📚 Técnico em ADS - SENAC
 - 🔭 Cursando Sistemas de informação - UFU
-- 📫 Contato: **vitoredua7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vittinzin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vittinzin" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/vitor-eduardo-788b96372" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
