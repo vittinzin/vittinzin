@@ -1,7 +1,7 @@
 <h1 >Olá 👋, eu sou o Vitor</h1>
 <h3>Programando diretamente do Brasil</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 - 🌱 Atualmente aprendendo **Java Backend**
 - 📚 Técnico em ADS - SENAC
